@@ -19,4 +19,4 @@ def current_player(turn_count)
   end
 end
   
-  puts "the number of turns is #{turn_count(["X","O","O","","O","X","X","X","X"])}"
+  #puts "the number of turns is #{turn_count(["X","O","O","","O","X","X","X","X"])}"
