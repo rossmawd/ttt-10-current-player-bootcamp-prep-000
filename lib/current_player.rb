@@ -17,5 +17,6 @@ def current_player(turn_count)
   else
     return "O"
   end
+end
   
   puts "the number of turns is #{turn_count(["X","O","O","","O","X","X","X","X"])}"
